@@ -6,7 +6,7 @@
 <head runat="server">
     <title></title>
     <link href="css/StyleSheet1.css" rel="stylesheet" />
-    <style type="text/css">
+    <style type="text/css" >
 
 
         .auto-style1 {
